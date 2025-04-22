@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4824045D-5E73-4075-8372-AFE46C6956DE}|ClienteMemoryBueno\\ClienteMemoryBueno.csproj|c:\\users\\pcesa\\source\\repos\\clientememorybueno\\clientememorybueno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4824045D-5E73-4075-8372-AFE46C6956DE}|ClienteMemoryBueno\\ClienteMemoryBueno.csproj|solutionrelative:clientememorybueno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4824045D-5E73-4075-8372-AFE46C6956DE}|ClienteMemoryBueno\\ClienteMemoryBueno.csproj|C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\clientememorybueno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4824045D-5E73-4075-8372-AFE46C6956DE}|ClienteMemoryBueno\\ClienteMemoryBueno.csproj|solutionrelative:clientememorybueno\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4824045D-5E73-4075-8372-AFE46C6956DE}|ClienteMemoryBueno\\ClienteMemoryBueno.csproj|C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\clientememorybueno\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4824045D-5E73-4075-8372-AFE46C6956DE}|ClienteMemoryBueno\\ClienteMemoryBueno.csproj|solutionrelative:clientememorybueno\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\ClienteMemoryBueno\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteMemoryBueno\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\ClienteMemoryBueno\\Form1.Designer.cs",
+              "RelativeToolTip": "ClienteMemoryBueno\\Form1.Designer.cs",
+              "ViewState": "AQIAAHgBAAAAAAAAAAAewIsBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:47:26.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\ClienteMemoryBueno\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteMemoryBueno\\Form1.cs",
+              "ToolTip": "C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\ClienteMemoryBueno\\Form1.cs",
+              "RelativeToolTip": "ClienteMemoryBueno\\Form1.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAiwKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:36:15.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\ClienteMemoryBueno\\Form1.cs",
+              "RelativeDocumentMoniker": "ClienteMemoryBueno\\Form1.cs",
+              "ToolTip": "C:\\Users\\pcesa\\source\\repos\\ClienteMemoryBueno\\ClienteMemoryBueno\\Form1.cs [Design]",
+              "RelativeToolTip": "ClienteMemoryBueno\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:36:11.463Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

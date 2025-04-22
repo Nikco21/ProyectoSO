@@ -1,0 +1,10 @@
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\obj\Debug\ClienteMemoryBueno.csproj.AssemblyReference.cache
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\obj\Debug\ClienteMemoryBueno.Form1.resources
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\obj\Debug\ClienteMemoryBueno.Properties.Resources.resources
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\obj\Debug\ClienteMemoryBueno.csproj.GenerateResource.cache
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\obj\Debug\ClienteMemoryBueno.csproj.CoreCompileInputs.cache
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\bin\Debug\ClienteMemoryBueno.exe.config
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\bin\Debug\ClienteMemoryBueno.exe
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\bin\Debug\ClienteMemoryBueno.pdb
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\obj\Debug\ClienteMemoryBueno.exe
+C:\Users\pcesa\source\repos\ClienteMemoryBueno\ClienteMemoryBueno\obj\Debug\ClienteMemoryBueno.pdb
